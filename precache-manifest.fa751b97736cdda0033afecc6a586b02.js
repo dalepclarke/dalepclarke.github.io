@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/activities.2de36adb.css"
   },
   {
-    "revision": "9a40d643e68bda1f0618",
-    "url": "/css/app.43b1ae49.css"
+    "revision": "825c66b9776f0f51595b",
+    "url": "/css/app.6cad3044.css"
   },
   {
     "revision": "1f7998d50771854f7b31",
@@ -134,6 +134,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7409fedae35b33453a3e",
     "url": "/css/privacy-policy.9553aae0.css"
+  },
+  {
+    "revision": "e26d91103e9768ee1fee",
+    "url": "/css/protected.1a268b55.css"
   },
   {
     "revision": "4a89c0c0c622501049b7",
@@ -440,7 +444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wildlife.06cbd02d.jpg"
   },
   {
-    "revision": "b0ccb0c278e8accd20237850d033fe2d",
+    "revision": "2e67cd4aa690f5ea2e2dceae68e66a6e",
     "url": "/index.html"
   },
   {
@@ -464,8 +468,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/activities.661ce39a.js"
   },
   {
-    "revision": "9a40d643e68bda1f0618",
-    "url": "/js/app.4c4a3cae.js"
+    "revision": "825c66b9776f0f51595b",
+    "url": "/js/app.3d03e2de.js"
   },
   {
     "revision": "1f7998d50771854f7b31",
@@ -610,6 +614,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7409fedae35b33453a3e",
     "url": "/js/privacy-policy.bf9243fe.js"
+  },
+  {
+    "revision": "e26d91103e9768ee1fee",
+    "url": "/js/protected.5bc9ec92.js"
   },
   {
     "revision": "4a89c0c0c622501049b7",

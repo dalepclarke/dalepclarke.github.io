@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.933853f15cd0d0062a4ffaaade245467.js"
+  "/precache-manifest.fa751b97736cdda0033afecc6a586b02.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ldnl-site"});
