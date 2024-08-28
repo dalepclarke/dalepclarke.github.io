@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.4a6da294.css"
   },
   {
-    "revision": "3da42669118adda102c9",
-    "url": "/css/about~accommodation~contact-us~danger-ratings~environmental-policy~explore~frequently-asked-question~ffe81979.fa037b2c.css"
+    "revision": "113e3c988795a1ba58ba",
+    "url": "/css/about~accommodation~contact-us~danger-ratings~environmental-policy~explore~frequently-asked-question~ffe81979.938419aa.css"
   },
   {
     "revision": "526fe93333f5cb3dd33b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/activities.2de36adb.css"
   },
   {
-    "revision": "7a98daa2e607cdfe8aac",
-    "url": "/css/app.e1d24f06.css"
+    "revision": "07fd450b325328b6ae2f",
+    "url": "/css/app.83ab250f.css"
   },
   {
     "revision": "1f7998d50771854f7b31",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/explore.16ce0a01.css"
   },
   {
+    "revision": "4da91c4981bcea8b0b82",
+    "url": "/css/facilities.00ad3583.css"
+  },
+  {
     "revision": "f23d42db0f86e5e42efa",
     "url": "/css/flora.5c99d197.css"
   },
@@ -104,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/location~trails.f9109212.css"
   },
   {
-    "revision": "3e34bf08ad44b7cd9191",
-    "url": "/css/lodge.0dbd8638.css"
+    "revision": "de5969d69c5aa34377e2",
+    "url": "/css/lodge.7023517b.css"
   },
   {
     "revision": "73f4b94dd7a645a085fb",
@@ -348,6 +352,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/f2e1e952-14ec-464e-9aec-73fcda5606c4.0651e384.png"
   },
   {
+    "revision": "c525a2582350e52866549ff3dbf8d102",
+    "url": "/img/facilities.c525a258.jpeg"
+  },
+  {
     "revision": "9d3ba6318c79a362752708ec638df25e",
     "url": "/img/family1.9d3ba631.webp"
   },
@@ -444,7 +452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/wildlife.06cbd02d.jpg"
   },
   {
-    "revision": "4fa192c7b9a47b2966e5e81958a1eb35",
+    "revision": "9244dd6347a337026ec69454d19cf5a2",
     "url": "/index.html"
   },
   {
@@ -452,8 +460,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.35272ecb.js"
   },
   {
-    "revision": "3da42669118adda102c9",
-    "url": "/js/about~accommodation~contact-us~danger-ratings~environmental-policy~explore~frequently-asked-question~ffe81979.9cdda4a7.js"
+    "revision": "113e3c988795a1ba58ba",
+    "url": "/js/about~accommodation~contact-us~danger-ratings~environmental-policy~explore~frequently-asked-question~ffe81979.ab03b0ef.js"
   },
   {
     "revision": "526fe93333f5cb3dd33b",
@@ -468,8 +476,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/activities.661ce39a.js"
   },
   {
-    "revision": "7a98daa2e607cdfe8aac",
-    "url": "/js/app.09e2da81.js"
+    "revision": "07fd450b325328b6ae2f",
+    "url": "/js/app.ba4452f9.js"
   },
   {
     "revision": "1f7998d50771854f7b31",
@@ -548,6 +556,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/explore.7f028a9f.js"
   },
   {
+    "revision": "4da91c4981bcea8b0b82",
+    "url": "/js/facilities.2c855f99.js"
+  },
+  {
     "revision": "f23d42db0f86e5e42efa",
     "url": "/js/flora.89c43a6f.js"
   },
@@ -584,8 +596,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/location~trails.420d5b99.js"
   },
   {
-    "revision": "3e34bf08ad44b7cd9191",
-    "url": "/js/lodge.80cc6aaa.js"
+    "revision": "de5969d69c5aa34377e2",
+    "url": "/js/lodge.4815c8b0.js"
   },
   {
     "revision": "73f4b94dd7a645a085fb",
